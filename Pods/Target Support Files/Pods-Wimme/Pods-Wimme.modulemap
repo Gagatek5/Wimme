@@ -1,0 +1,6 @@
+framework module Pods_Wimme {
+  umbrella header "Pods-Wimme-umbrella.h"
+
+  export *
+  module * { export * }
+}
